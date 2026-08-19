@@ -33,8 +33,8 @@ Key Insights
 Tableau Dashboard
 
 An interactive Tableau dashboard was created to visualize the differences between casual riders and annual members.
-![Dashboard top](dashboard-top.png)
-![Dashboard bottom](dashboard-bottom.png)
+![Dashboard top](dashboard-top.png.png)
+![Dashboard bottom](dashboard-bottom.png.png)
 
 View the interactive dashboard on Tableau Public:
 [Tableau Public Dashboard] (https://public.tableau.com/app/profile/yana.novytska/viz/CyclisticBike-ShareAnalysis_17871437811940/CyclisticBike-ShareAnalysisMembersvsCasualRiders)
