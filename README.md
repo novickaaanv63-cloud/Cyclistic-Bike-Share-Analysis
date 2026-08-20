@@ -49,7 +49,7 @@ This project demonstrates my ability to:
 * Build clear and effective Tableau visualizations
 * Communicate analytical findings through an interactive dashboard
 
-* Key Findings
+ Key Findings
 
 * Annual members generated 64.77% of all rides, while casual riders accounted for 35.23%.
 * Casual riders took longer trips, averaging 18.93 minutes, compared with 12.26 minutes for annual members.
